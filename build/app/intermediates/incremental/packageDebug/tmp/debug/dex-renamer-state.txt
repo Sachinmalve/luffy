@@ -1,0 +1,4 @@
+#Thu Nov 10 23:52:48 IST 2022
+base.0=C\:\\Users\\lenovo\\StudioProjects\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
